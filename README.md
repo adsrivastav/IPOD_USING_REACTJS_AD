@@ -29,7 +29,7 @@ This project implements a circular menu with navigation functionality, similar t
 
 ## Demo
 
-You can view a live demo [here](https://ipodusingreact.onrender.com/)
+You can view a live demo (https://ipodusingreact.onrender.com/)
 
 ## License
 
